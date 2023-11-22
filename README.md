@@ -1,2 +1,2 @@
 # haruki
-magic
+meiroukaikatsu
